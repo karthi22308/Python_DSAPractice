@@ -61,7 +61,7 @@ print("first value {1} and here goes the secondd value{0}".format(bc,bb)) ## we 
 
 
 
-print("testing {bc} hello".format())
+
 
 
 
